@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+exportacao_vinhos/
 
 # Spyder project settings
 .spyderproject
