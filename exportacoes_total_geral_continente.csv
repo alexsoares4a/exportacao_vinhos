@@ -1,0 +1,20 @@
+#;Continente do País de Destino; Quantidade em Litros 
+1;America do Sul; 33.585.113 
+2;Europa/Asia; 32.978.920 
+3;America do Norte; 10.045.986 
+4;Europa; 7.277.885 
+5;Asia; 4.326.067 
+6;Africa; 884.079 
+7;Oceania; 131.460 
+8;America Central; 123.168 
+;;
+;;
+#;Continente do País de Destino; Valor em US$ 
+1;America do Sul; 49.317.266,00 
+3;America do Norte; 24.644.584,00 
+4;Europa; 24.204.496,00 
+2;Europa/Asia; 23.326.703,00 
+5;Asia; 10.015.697,00 
+6;Africa; 2.869.391,00 
+7;Oceania; 657.309,00 
+8;America Central; 388.121,00 

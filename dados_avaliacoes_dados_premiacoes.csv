@@ -1,0 +1,267 @@
+;Ano;Nome do Evento;Edição do Evento;Cidade;País do Evento;Total de Amostras;Países Participantes;Data do Evento;Total de Prêmios;pais;continente
+0;2010;Mondial du Merlot et Assemblages;3;Lugano;Suica;300.0;25.0;12 e 14 de novembro;6;Suica;Europa
+1;2010;Mediterranean International Wine Challenge - Terravino;5;Masada;Israel;706.0;29.0;19 a 27 de novembro;2;Israel;Asia
+2;2011;VinAgora International Wine Competition;12;Pécs;Hungria;501.0;19.0;16 a 19 de junho;3;Hungria;Europa
+3;2011;Concours Mondial de Bruxelles;18;Luxemburgo;Luxemburgo;7386.0;49.0;6 e 8 de maio;2;Luxemburgo;Europa
+4;2011;Concurso Internacional Tannat al Mundo Terruño de oro;4;Montevidéu;Uruguai;150.0;6.0;28 e 29 de novembro;2;Uruguai;America do Sul
+5;2011;Effervescents du Monde;9;Dijon;Franca;500.0;24.0;16 e 17 de novembro;6;Franca;Europa
+6;2011;Concurso Internacional de Vinos y Espirituosos - CINVE;4;Sevilha;Espanha;700.0;20.0;5 e 17 de novembro;10;Espanha;Europa
+7;2011;IWSC - International Wine & Spirit Competition;2011;Londres;Inglaterra;8000.0;45.0;12 de outubro;11;Inglaterra;Europa
+8;2011;VINUS - Concurso Internacional de Vinos y Licores;8;Mendoza;Argentina;466.0;24.0;3 a 6 de agosto;15;Argentina;America do Sul
+9;2011;Vinoforum;2011;Krynica Zdrój;Polonia;318.0;15.0;14 a 17 de julho;3;Polonia;Europa
+10;2011;Muscats du Monde;11;Monde;Franca;210.0;23.0;30 de junho e 1º de julho;7;Franca;Europa
+11;2011;San Francisco International Wine Competition;31;São Francisco;Estados Unidos;4184.0;29.0;17 a 19 de junho;84;Estados Unidos;America do Norte
+12;2011;Citadelles Du Vin;11;Bordeaux;Franca;;0.0;28 a 30 de maio;3;Franca;Europa
+13;2011;CINVE - Concurso Internacional de Vinos y Espirituosos;6;Miami;Estados Unidos;282.0;15.0;19 a 22 de maio;9;Estados Unidos;America do Norte
+14;2011;Sélections Mondiales des Vins;19;Quebec;Canada;1600.0;37.0;31 de maio a 6 de junho;4;Canada;America do Norte
+15;2011;International Wine Challenge;27;Londres;Inglaterra;12000.0;48.0;11 a 21 de abril;25;Inglaterra;Europa
+16;2011;Challenge International du Vin;35;Bordeaux;Franca;4624.0;38.0;26 e 27 de abril;4;Franca;Europa
+17;2011;Vinitaly;45;Verona;Italia;3700.0;30.0;28 de março a 1º de abril.;5;Italia;Europa
+18;2011;Thessaloniki International Wine and Spirits Competition;11;Thessaloniki;Grecia;667.0;7.0;8 a 10 de março;2;Grecia;Europa
+19;2011;Chardonnay du Monde;18;Saint Lager;Franca;914.0;38.0;9 e 12 de março;4;Franca;Europa
+20;2011;Vinalies Internationales;17;Paris;Franca;3000.0;0.0;25 de fevereiro a 1 de março;12;Franca;Europa
+21;2011;Mundus Vini;8 e 9;Neustadt;Alemanha;6028.0;48.0;26 e 28 de agosto e 2 e 4 de setembro;2;Alemanha;Europa
+22;2011;Vinandino;10;Mendoza;Argentina;740.0;14.0;9 e 17 de setembro;5;Argentina;America do Sul
+23;2011;Concurso do Espumante Brasileiro;7;Garibaldi;Brasil;231.0;1.0;25 a 27 de outubro;72;Brasil;America do Sul
+24;2012;Vinitaly;46;Verona;Italia;2300.0;40.0;25 a 28 de março;3;Italia;Europa
+25;2012;Malbec al Mundo;7;Mendoza;Argentina;280.0;7.0;21 a 23 de novembro;1;Argentina;America do Sul
+26;2012;Effervescents du Monde;10;Dijon;Franca;660.0;25.0;14 a 16 de novembro;13;Franca;Europa
+27;2012;IWSC - International Wine & Spirit Competition;2012;Londres;Inglaterra;7800.0;75.0;Março a setembro;10;Inglaterra;Europa
+28;2012;Mundus Vini;10 e 11;Neustadt;Alemanha;6019.0;46.0;24 a 26 de agosto e 31 de agosto a 02 de setembro;6;Alemanha;Europa
+29;2012;Citadelles Du Vin;12;Bourg-sur-Gironde;Franca;;0.0;19 a 21 de maio;5;Franca;Europa
+30;2012;Muscats du Monde;12;Frontignan la Peyrade;Franca;232.0;24.0;5 e 6 de julho;4;Franca;Europa
+31;2012;San Francisco International Wine Competition;32;San Francisco;Estados Unidos;4556.0;29.0;15 a 17 de junho;16;Estados Unidos;America do Norte
+32;2012;Concurso Internacional de Vinhos do Brasil;6;Bento Gonçalves;Brasil;503.0;17.0;03 a 06 de junho;148;Brasil;America do Sul
+33;2012;VinAgora International Wine Competition;13;Budapeste;Hungria;630.0;20.0;15 a 17 de junho;3;Hungria;Europa
+34;2012;Concours Mondial de Bruxelles;19;Guimarães;Portugal;8357.0;52.0;4 a 6 de maio;6;Portugal;Europa
+35;2012;International Wine Challenge;28;Londres;Inglaterra;15000.0;50.0;16 a 27 de abril;30;Inglaterra;Europa
+36;2012;Sélections Mondiales des Vins;20;Québec;Canada;1806.0;35.0;31 maio a 4 junho;3;Canada;America do Norte
+37;2012;Concurso Internacional Ensenada Tierra del Vino;20;Ensenada;Mexico;214.0;9.0;7 a 10 de junho;3;Mexico;America do Norte
+38;2012;Challenge International du Vin;36;Bourg-sur-Gironde;Franca;4700.0;38.0;30 e 31 de março;4;Franca;Europa
+39;2012;Bacchus;10;Madri;Espanha;1520.0;22.0;16 a 20 de março;5;Espanha;Europa
+40;2012;Thessaloniki International Wine and Spirits Competition;12;Thessaloniki;Grecia;614.0;9.0;12 a 14 de março;2;Grecia;Europa
+41;2012;Chardonnay du Monde;19;Château Ravatys;Franca;908.0;43.0;7 a 10 de março;3;Franca;Europa
+42;2012;Vinalies Internationales;18;Paris;Franca;3353.0;0.0;2 a 6 de março;10;Franca;Europa
+43;2013;IWSC - International Wine & Spirit Competition;2013;Londres;Inglaterra;7000.0;30.0;Março a outubro;12;Inglaterra;Europa
+44;2013;Bacchus;11;Madri;Espanha;1564.0;17.0;15 a 17 de março;1;Espanha;Europa
+45;2013;Concurso Internacional Tannat al Mundo Terruño de oro;5;Montevidéu;Uruguai;;0.0;23 a 25 de setembro;2;Uruguai;America do Sul
+46;2013;Mundus Vini;12 e 13;Neustadt;Alemanha;6000.0;45.0;30 de agosto a 1º de setembro;6;Alemanha;Europa
+47;2013;CINVE - Concurso Internacional de Vinos y Espirituosos;9;Valladolid;Espanha;600.0;16.0;25 a 27 de junho;6;Espanha;Europa
+48;2013;Effervescents du Monde;11;Dijon;Franca;600.0;28.0;13 a 15 de novembro;11;Franca;Europa
+49;2013;Vinandino;11;San Juan/Mendoza;Argentina;750.0;0.0;10 a 16 de novembro;11;Argentina;America do Sul
+50;2013;VINUS - Concurso Internacional de Vinos y Licores;10;Mendoza;Argentina;400.0;13.0;7 a 10 de agosto;22;Argentina;America do Sul
+51;2013;Muscats du Monde;13;Frontignan la Peyrade;Franca;224.0;20.0;4 a 6 de julho;4;Franca;Europa
+52;2013;Concurso Internacional Ensenada Tierra del Vino;21;Ensenada;Mexico;236.0;6.0;5 a 7 de julho;2;Mexico;America do Norte
+53;2013;San Francisco International Wine Competition;33;San Francisco;Estados Unidos;4539.0;30.0;14 a 16 de junho;21;Estados Unidos;America do Norte
+54;2013;VinAgora International Wine Competition;14;Budapeste;Hungria;560.0;19.0;14 a 16 de junho;4;Hungria;Europa
+55;2013;Citadelles Du Vin;13;Bourg-sur-Gironde;Franca;1159.0;29.0;25 a 27 de maio;19;Franca;Europa
+56;2013;Premios Zarcillo;15;Valladolid;Espanha;1819.0;20.0;20 a 24 de maio;1;Espanha;Europa
+57;2013;Sélections Mondiales des Vins;21;Quebec;Canada;1722.0;34.0;29 de maio a 3 de junho;1;Canada;America do Norte
+58;2013;Concours Mondial de Bruxelles;20;Bratislava;Eslovaquia;8200.0;50.0;10 a 12 de maio;5;;
+59;2013;Mondial du Merlot et Assemblages;6;Sierre;Suica;320.0;17.0;19 a 21 de abril;1;Suica;Europa
+60;2013;International Wine Challenge;29;Londres;Inglaterra;10000.0;40.0;8 a 12 e 16 a 19 de abril;29;Inglaterra;Europa
+61;2013;Challenge International du Vin;37;Bourg-sur-Gironde;Franca;4360.0;26.0;5 e 6 de abril;16;Franca;Europa
+62;2013;Thessaloniki International Wine and Spirits Competition;13;Thessaloniki;Grecia;553.0;5.0;4 a 6 de março;1;Grecia;Europa
+63;2013;Chardonnay du Monde;20;Saint Lager;Franca;872.0;42.0;13 a 16 de março;5;Franca;Europa
+64;2013;Vinalies Internationales;19;Paris;Franca;3425.0;43.0;1º a 5 de março;6;Franca;Europa
+65;2013;Concurso do Espumante Brasileiro;8;Garibaldi;Brasil;259.0;1.0;16 e 17 de outubro;83;Brasil;America do Sul
+66;2014;Effervescents du Monde;12;Dijon;Franca;606.0;24.0;18 a 20 de novembro;12;Franca;Europa
+67;2014;La Mujer Elige;11;Mendoza;Argentina;505.0;0.0;23 a 25 de outubro;42;Argentina;America do Sul
+68;2014;Berliner Wine Trophy;18;Berlim;Alemanha;3528.0;32.0;24 a 27 de julho;13;Alemanha;Europa
+69;2014;Internacional Wine Challenge;30;Londres;Inglaterra;13000.0;52.0;7 a 16 de abril;27;Inglaterra;Europa
+70;2014;VINUS - Concurso Internacional de Vinos y Licores;11;Mendoza;Argentina;450.0;17.0;7 e 8 de agosto;38;Argentina;America do Sul
+71;2014;Muscats du Monde;14;Languedoc Roussillon;Franca;208.0;23.0;2 e 3 de julho;8;Franca;Europa
+72;2014;San Francisco International Wine Competition;34;San Francisco;Estados Unidos;4569.0;31.0;22 e 23 de junho;18;Estados Unidos;America do Norte
+73;2014;Concours Mondial de Bruxelles;20;Bruxelas;Belgica;8060.0;41.0;2 a 4 de maio;1;Belgica;Europa
+74;2014;VinAgora International Wine Competition;15;Tarcal;Hungria;582.0;18.0;12 a 15 de junho;6;Hungria;Europa
+75;2014;Sélections Mondiales des Vins;22;Quebec;Canada;1738.0;28.0;30 de maio a 4 de junho;6;Canada;America do Norte
+76;2014;Citadelles Du Vin;14;Burdeos;Franca;1200.0;0.0;17 a 19 de maio;10;Franca;Europa
+77;2014;Concurso Internacional de Vinhos do Brasil;7;Bento Gonçalves;Brasil;709.0;18.0;8 a 11 de abril;212;Brasil;America do Sul
+78;2014;Mondial du Merlot et Assemblages;7;Sierre;Suica;420.0;18.0;24 a 27 de abril;1;Suica;Europa
+79;2014;Vinitaly;48;Verona;Italia;2557.0;30.0;26 a 30 de março;6;Italia;Europa
+80;2014;Challenge International du Vin;38;Bourg-sur-Gironde;Franca;5000.0;38.0;4 e 5 de abril;5;Franca;Europa
+81;2014;Chardonnay du Monde;21;Borgonha;Franca;794.0;0.0;12 a 15 de março;5;Franca;Europa
+82;2014;Bacchus;12;Madri;Espanha;1593.0;20.0;14 a 18 de março;7;Espanha;Europa
+83;2014;Thessaloniki International Wine and Spirits Competition;14;Thessaloniki;Grecia;533.0;5.0;3 a 5 de março;4;Grecia;Europa
+84;2014;Vinalies Internationales;20;Paris;Franca;3503.0;41.0;1º a 5 de março;17;Franca;Europa
+85;2014;IWSC - International Wine & Spirit Competition;2014;Londres;Inglaterra;7000.0;38.0;Março a setembro 2014;19;Inglaterra;Europa
+86;2015;Effervescents du Monde;13;Dijon;Franca;622.0;26.0;18 a 20 de novembro;9;Franca;Europa
+87;2015;VinAgora International Wine Competition;16;Budapeste;Hungria;549.0;18.0;11 a 14 de junho;3;Hungria;Europa
+88;2015;Muscats du Monde;15;Languedoc Roussillon;Franca;230.0;20.0;1 e 2 de julho;3;Franca;Europa
+89;2015;VINUS - Concurso Internacional de Vinos y Licores;12;Mendoza;Argentina;556.0;20.0;5 a 7 de agosto;26;Argentina;America do Sul
+90;2015;Vinandino y Malbec al Mundo;1;Mendoza;Argentina;624.0;23.0;15 a 17 de setembro;6;Argentina;America do Sul
+91;2015;La Selezione del Sindaco;14;Oeiras;Portugal;1100.0;0.0;29 a 31 de maio;1;Portugal;Europa
+92;2015;Citadelles Du Vin;15;Bourg-sur-Gironde;Franca;1200.0;30.0;23 a 25 de maio;9;Franca;Europa
+93;2015;Seléctions Mondiales des Vins;22;Quebec;Canada;2151.0;0.0;29 de maio a 2 de junho;2;Canada;America do Norte
+94;2015;Mondial du Merlot et Assemblages;8;Sierre;Suica;440.0;25.0;24 a 26 de abril;2;Suica;Europa
+95;2015;Concours Mondial de Bruxelles;21;Jesolo;Italia;8000.0;45.0;1 a 3 de maio;4;Italia;Europa
+96;2015;International Wine Challenge;31;Londres;Inglaterra;17000.0;55.0;13 a 24 de abril;16;Inglaterra;Europa
+97;2015;Challenge International du Vin;39;Bourg-sur-Gironde;Franca;4220.0;34.0;10 a 11 de abril;8;Franca;Europa
+98;2015;Vinitaly;49;Verona;Italia;2600.0;32.0;12 a 16 de abril;8;Italia;Europa
+99;2015;CINVE - Concurso Internacional de Vinos y Espirituosos;11;Valladolid;Espanha;700.0;13.0;27 a 29 de março;4;Espanha;Europa
+100;2015;Bacchus;13;Madri;Espanha;1600.0;16.0;19 a 21 de Março;4;Espanha;Europa
+101;2015;Chardonnay du Monde;22;Borgonha;Franca;826.0;41.0;11 a 14 de março;6;Franca;Europa
+102;2015;Thessaloniki International Wine and Spirits Competition;15;Thessaloniki;Grecia;560.0;7.0;24 a 26 de fevereiro;1;Grecia;Europa
+103;2015;Vinalies Internationales;21;Paris;Franca;3575.0;40.0;27 de fevereiro a 3 de março;8;Franca;Europa
+104;2015;Concurso do Espumante Brasileiro;9;Garibaldi;Brasil;264.0;1.0;5 e 8 de junho;80;Brasil;America do Sul
+105;2016;Effervescents du Monde;14;Dijon;Franca;540.0;24.0;16 a 18 de novembro;13;Franca;Europa
+106;2016;La Mujer Elige;12;Mendoza;Argentina;457.0;19.0;9 a 11 de novembro;39;Argentina;America do Sul
+107;2016;Mondial des Pinots;19;Sierre;Suica;1347.0;24.0;7 a 9 de agosto;1;Suica;Europa
+108;2016;VINUS - Concurso Internacional de Vinos y Licores;13;Mendoza;Argentina;445.0;17.0;3 a 6 de agosto;45;Argentina;America do Sul
+109;2016;Muscats du Monde;16;Frontignan la Peyrade;Franca;244.0;22.0;29 a 30 de junho;4;Franca;Europa
+110;2016;Challenge International du Vin;40;Bourg-sur-Gironde;Franca;5000.0;38.0;1º e 2 de abril;17;Franca;Europa
+111;2016;Sélections Mondiales des Vins;23;Québec;Canada;2000.0;0.0;26 a 31 de maio;11;Canada;America do Norte
+112;2016;Catad'Or World Wine Awards;2;Santiago;Chile;87.0;0.0;4 a 11 de julho;4;Chile;America do Sul
+113;2016;VinAgora International Wine Competition;17;Budapeste;Hungria;503.0;12.0;10 a 13 de junho;1;Hungria;Europa
+114;2016;Concurso Internacional Ensenada Tierra del Vino;24;Ensenada;Mexico;350.0;7.0;10 a 12 de junho;1;Mexico;America do Norte
+115;2016;Brazil Wine Challenge;8;Bento Gonçalves;Brasil;623.0;17.0;7 a 10 de junho;114;Brasil;America do Sul
+116;2016;Decanter World Wine Awards;13;Londres;Inglaterra;16023.0;75.0;25 a 29 de abril;25;Inglaterra;Europa
+117;2016;Mondial du Merlot et Assemblages;9;Sierre;Suica;413.0;0.0;22 a 24 de abril;1;Suica;Europa
+118;2016;Citadelles du Vin;16;Bordeaux;Franca;1200.0;30.0;14 a 16 de maio;7;Franca;Europa
+119;2016;International Wine Challenge;32;Londres;Inglaterra;;0.0;11 a 22 de abril;23;Inglaterra;Europa
+120;2016;Concours Mondial de Bruxelles;23;Plovdiv;Bulgaria;8750.0;52.0;29 de abril a 1º de maio;5;Bulgaria;Europa
+121;2016;Prêmio Internacional 5 Star Wine;1;Verona;Italia;2700.0;27.0;1º a 3 de abril;1;Italia;Europa
+122;2016;Bacchus;14;Madri;Espanha;;21.0;18 a 21 de março;7;Espanha;Europa
+123;2016;Chardonnay du Monde;23;Saint Lager;Franca;782.0;39.0;8 a 11 de março;4;Franca;Europa
+124;2016;Vinalies Internationales;22;Paris;Franca;3441.0;38.0;26 de fevereiro a 1º de março;11;Franca;Europa
+125;2017;Concurso Ibero-americano de Vinos Espumosos y Efervescents;2;Mérida;Espanha;220.0;8.0;10 e 11 de novembro;6;Espanha;Europa
+126;2017;Effervescents du Monde;15;Dijon;Franca;548.0;21.0;15 a 17 de novembro;10;Franca;Europa
+127;2017;Decanter World Wine Awards;14;Londres;Inglaterra;17200.0;0.0;24 a 28 de abril;26;Inglaterra;Europa
+128;2017;VINUS - Concurso Internacional de Vinos y Licores;14;Mendoza;Argentina;450.0;17.0;7 e 8 de agosto;51;Argentina;America do Sul
+129;2017;Muscats du Monde;17;Frontignan la Peyrade;Franca;230.0;25.0;5 e 6 de julho;2;Franca;Europa
+130;2017;Mondial du Merlot et Assemblages;10;Lugano;Suica;450.0;22.0;21 a 23 de abril;1;Suica;Europa
+131;2017;Catad'Or World Wine Awards;22;Santiago;Chile;636.0;0.0;3 a 7 de julho;8;Chile;America do Sul
+132;2017;VinAgora International Wine Competition;18;Budapeste;Hungria;556.0;15.0;16 a 19 de junho;2;Hungria;Europa
+133;2017;Citadelles du Vin;17;Bourg-sur-Gironde;Franca;1074.0;31.0;10 e 11 de junho;5;Franca;Europa
+134;2017;Sélections Mondiales des Vins;24;Quebec;Canada;1880.0;34.0;25 a 29 de maio;1;Canada;America do Norte
+135;2017;Concurso Internacional Ensenada Tierra del Vino;25;Ensenada;Mexico;330.0;7.0;19 a 21 de maio;3;Mexico;America do Norte
+136;2017;International Wine Challenge;33;Londres;Inglaterra;;0.0;18 a 27 de abril;29;Inglaterra;Europa
+137;2017;Concours Mondial de Bruxelles;24;Valladolid;Espanha;9080.0;50.0;5 a 7 de maio;6;Espanha;Europa
+138;2017;Bacchus;15;Madri;Espanha;1751.0;20.0;10 a 13 de março;3;Espanha;Europa
+139;2017;Thessaloniki International Wine and Spirits Competition;17;Thessaloniki;Grecia;783.0;0.0;1º a 3 de março;3;Grecia;Europa
+140;2017;Chardonnay du Monde;24;Saint Lager;Franca;706.0;38.0;8 a 11 de março;1;Franca;Europa
+141;2017;Vinalies Internationales;23;Paris;Franca;3540.0;45.0;24 de fevereiro a 3 de março;11;Franca;Europa
+142;2017;Concurso do Espumante Brasileiro;10;Garibaldi;Brasil;264.0;1.0;18 e 20 de outubro;97;Brasil;America do Sul
+143;2018;IWSC - International Wine & Spirit Competition;2018;Londres;Inglaterra;;30.0;Março a Outubro;17;Inglaterra;Europa
+144;2018;Decanter World Wine Awards;15;Londres;Inglaterra;16903.0;0.0;30 de abril a 11 de maio;44;Inglaterra;Europa
+145;2018;Effervescents du Monde;16;Dijon;Franca;594.0;22.0;14 a 16 de novembro;10;Franca;Europa
+146;2018;La Mujer Elige;13;Mendoza;Argentina;423.0;17.0;8 a 11 de novembro;50;Argentina;America do Sul
+147;2018;VINUS - Concurso Internacional de Vinos y Licores;15;Mendoza;Argentina;478.0;17.0;9 e 10 de agosto;37;Argentina;America do Sul
+148;2018;Muscats du Monde;18;Frontignan la Peyrade;Franca;212.0;23.0;4 e 5 de julho;3;Franca;Europa
+149;2018;La Selezione del Sindaco;17;Canelli;Italia;1300.0;0.0;1º a 3 de junho;1;Italia;Europa
+150;2018;VinAgora International Wine Competition;19;Eger;Hungria;548.0;14.0;15 a 18 de junho;6;Hungria;Europa
+151;2018;Concurso Internacional Ensenada Tierra del Vino;26;Ensenada;Mexico;300.0;6.0;18 a 20 de maio;1;Mexico;America do Norte
+152;2018;Sélections Mondiales des Vins;25;Ville de Québec;Canada;1776.0;31.0;24 a 28 de maio;6;Canada;America do Norte
+153;2018;Citadelles du Vin;18;Bordeaux;Franca;881.0;31.0;19 a 21 de maio;7;Franca;Europa
+154;2018;International Wine Challenge;34;Londres;Inglaterra;;55.0;22 e 23 de abril;40;Inglaterra;Europa
+155;2018;Challenge International du Vin;42;Bordeaux;Franca;5000.0;38.0;20 e 21 de abril;11;Franca;Europa
+156;2018;Chardonnay du Monde;25;Saint Lager;Franca;679.0;39.0;7 a 9 de março;6;Franca;Europa
+157;2018;Bacchus;16;Madri;Espanha;1740.0;20.0;8 a 12 de março;5;Espanha;Europa
+158;2018;Vinalies Internationales;24;Paris;Franca;3500.0;47.0;2 a 6 de março;9;Franca;Europa
+159;2018;Thessaloniki International Wine and Spirits Competition;18;Thessaloniki;Grecia;746.0;0.0;27 de fevereiro a 1 de março;9;Grecia;Europa
+160;2018;CINVE - Concurso Internacional de Vinos y Espirituosos;18;Cáceres;Espanha;705.0;14.0;12 a 14 de fevereiro;16;Espanha;Europa
+161;2018;Concours Mondial de Bruxelles;25;Pequim;China;9180.0;48.0;10 a 14 de maio;4;China;Asia
+162;2018;Vinandino y Malbec al Mundo;2;Mendoza;Argentina;378.0;5.0;12 a 16 de maio;5;Argentina;America do Sul
+163;2018;Brazil Wine Challenge;9;Bento Gonçalves;Brasil;611.0;18.0;5 a 8 de junho 2018;108;Brasil;America do Sul
+164;2019;Mondial des Pinots;22;Sierre;Suica;1212.0;29.0;16 a 18 de agosto;2;Suica;Europa
+165;2019;Effervescents du Monde;17;Dijon;Franca;564.0;22.0;13 a 15 de novembro;9;Franca;Europa
+166;2019;Concurso Internacional Tannat al Mundo Terruño de oro;7;Canelones;Uruguai;150.0;7.0;20 a 24 de outubro;1;Uruguai;America do Sul
+167;2019;VINUS - Concurso Internacional de Vinos y Licores;17;Mendoza;Argentina;;19.0;7 a 9 de agosto;38;Argentina;America do Sul
+168;2019;Sélections Mondiales des Vins;26;Quebec;Canada;1565.0;35.0;23 a 27 de maio;6;Canada;America do Norte
+169;2019;Catad'Or World Wine Awards;24;Santiago;Chile;665.0;14.0;4 a 7 de julho;8;Chile;America do Sul
+170;2019;Muscats du Monde;19;Frontignan la Peyrade;Franca;205.0;19.0;3 e 4 de julho;5;Franca;Europa
+171;2019;Cittá del Vino;18;Roma;Italia;1200.0;14.0;31 de maio a 2 de junho;1;Italia;Europa
+172;2019;International Wine Challenge;35;Londres;Inglaterra;;40.0;1º a 11 de abril;48;Inglaterra;Europa
+173;2019;Concours Mondial de Bruxelles;26;Aigle;Suica;9150.0;46.0;1º a 5 de maio;5;Suica;Europa
+174;2019;Prêmio Internacional 5 Star Wine;4;Verona;Italia;3500.0;0.0;3 a 5 de abril;2;Italia;Europa
+175;2019;VinAgora International Wine Competition;20;Budapeste;Hungria;643.0;17.0;6 a 8 de abril;5;Hungria;Europa
+176;2019;Challenge International du Vin;43;Bordeaux;Franca;5000.0;37.0;12 e 13 de abril;15;Franca;Europa
+177;2019;CINVE - Concurso Internacional de Vinos y Espirituosos;19;Cáceres;Espanha;800.0;16.0;31 de março a 3 de abril;7;Espanha;Europa
+178;2019;Thessaloniki International Wine and Spirits Competition;19;Thessaloniki;Grecia;866.0;5.0;19 a 21 de fevereiro;14;Grecia;Europa
+179;2019;International Awards VIRTUS;1;Lisboa;Portugal;462.0;0.0;23 a 25 de março;13;Portugal;Europa
+180;2019;Citadelles du Vin;19;Bordeaux;Franca;800.0;40.0;16 a 18 de março;7;Franca;Europa
+181;2019;Bacchus;17;Madri;Espanha;1650.0;20.0;7 a 11 de março;9;Espanha;Europa
+182;2019;Vinalies Internationales;25;Paris;Franca;3340.0;45.0;1º a 5 de março;8;Franca;Europa
+183;2019;Decanter World Wine Awards;16;Londres;Inglaterra;17000.0;57.0;29 de abril a 3 de maio;52;Inglaterra;Europa
+184;2019;Chardonnay du Monde;26;Saint Lager;Franca;696.0;36.0;6 a 8 de março;6;Franca;Europa
+185;2019;Concurso do Espumante Brasileiro;11;Garibaldi;Brasil;376.0;1.0;6 a 18 de outubro;125;Brasil;America do Sul
+186;2020;Challenge International du Vin;44;Bourg-sur-Gironde;Franca;3538.0;33.0;"20 e 21 de junho; 18 de julho";15;Franca;Europa
+187;2020;Muscats du Monde;20;Frontignan la Peyrade;Franca;158.0;16.0;22 a 23 de julho;2;Franca;Europa
+188;2020;International Wine Challenge;36;Londres;Inglaterra;8852.0;56.0;1º a 14 de novembro;48;Inglaterra;Europa
+189;2020;Decanter World Wine Awards;17;Londres;Inglaterra;16518.0;56.0;28 dias consecutivo de agosto de 2020;62;Inglaterra;Europa
+190;2020;VinAgora International Wine Competition;21;Szekszárd;Hungria;775.0;15.0;3 a 5 de julho;4;Hungria;Europa
+191;2020;Chardonnay du Monde;27;Saint Lager;Franca;658.0;37.0;11 a 13 de março;2;Franca;Europa
+192;2020;Thessaloniki International Wine and Spirits Competition;20;Thessaloniki;Grecia;907.0;0.0;25 a 27 de fevereiro;9;Grecia;Europa
+193;2020;Bacchus;18;Madri;Espanha;1578.0;14.0;6 a 11 de março;4;Espanha;Europa
+194;2020;Vinalies Internationales;26;Paris;Franca;3500.0;40.0;28 de fevereiro a 3 de março;9;Franca;Europa
+195;2020;International Awards VIRTUS;2;Lisboa;Portugal;414.0;12.0;8 a 10 de fevereiro;1;Portugal;Europa
+196;2020;Citadelles du Vin;20;Bourg-sur-Gironde;Franca;728.0;30.0;23 a 25 de junho;9;Franca;Europa
+197;2020;Effervescents du Monde;18;Palmarès;Franca;479.0;19.0;15 a 18 de dezembro;5;Franca;Europa
+198;2020;Brazil Wine Challenge;10;Bento Gonçalves;Brasil;774.0;0.0;13 a 15 de outubro;135;Brasil;America do Sul
+199;2021;IWSC - International Wine & Spirit Competition;2021;Londres;Inglaterra;7000.0;0.0;Março a setembro de 2021;42;Inglaterra;Europa
+200;2021;Sélections Mondiales des Vins;28;Montreal;Canada;1910.0;32.0;7 a 10 de outubro de 2021;5;Canada;America do Norte
+201;2021;Thessaloniki International Wine and Spirits Competition;21;Thessaloniki;Grecia;661.0;0.0;19 a 21 de outubro de 2021;10;Grecia;Europa
+202;2021;Effervescents du Monde;19;Borgonha;Franca;490.0;20.0;30 de novembro a 3 de dezembro de 2021;56;Franca;Europa
+203;2021;Muscats du Monde;21;Entre-Vignes;Franca;182.0;19.0;7 e 8 de setembro de 2021;7;Franca;Europa
+204;2021;VINUS - Concurso Internacional de Vinos y Licores;18;Mendoza;Argentina;418.0;15.0;8 a 10 de setembro de 2021;66;Argentina;America do Sul
+205;2021;Decanter World Wine Awards;18;Londres;Inglaterra;18094.0;56.0;14 a 30 de junho de 2021;42;Inglaterra;Europa
+206;2021;Concours Mondial de Bruxelles;28;Luxemburgo;Luxemburgo;10000.0;46.0;17 a 27 de junho de 2021;9;Luxemburgo;Europa
+207;2021;Vinalies Internationales;27;Paris;Franca;2926.0;39.0;10 a 13 de junho de 2021;10;Franca;Europa
+208;2021;International Awards VIRTUS;3;Lisboa;Portugal;378.0;12.0;12 a 14 de junho de 2021;1;Portugal;Europa
+209;2021;VinAgora International Wine Competition;22;Budapeste;Hungria;960.0;0.0;4 a 6 de junho de 2021;4;Hungria;Europa
+210;2021;Bacchus;19;Madri;Espanha;1691.0;15.0;24 a 28 de maio de 2021;12;Espanha;Europa
+211;2021;International Wine Challenge;37;Londres;Inglaterra;;50.0;14 a 27 de abril de 2021;55;Inglaterra;Europa
+212;2021;Citadelles du Vin;21;Bourg-sur-Gironde;Franca;1000.0;30.0;27 a 29 de março de 2021;14;Franca;Europa
+213;2021;Chardonnay du Monde;28;Saint Lager;Franca;604.0;36.0;9 a 12 de março de 2021;3;Franca;Europa
+214;2021;Challenge International du Vin;45;Bordeaux;Franca;3569.0;27.0;"18 e 19 de maio; 12 de junho";8;Franca;Europa
+215;2021;Concurso do Espumante Brasileiro;12;Garibaldi;Brasil;424.0;1.0;13 e 14 de outubro;126;Brasil;America do Sul
+216;2022;VINUS - Concurso Internacional de Vinos y Licores;19;Mendoza;Argentina;475.0;16.0;25 e 26 de agosto;77;Argentina;America do Sul
+217;2022;Effervescents du Monde;20;Saint Lager;Franca;482.0;25.0;29 de novembro a 2 de dezembro de 2022;16;Franca;Europa
+218;2022;La Mujer Elige;14;Mendoza;Argentina;526.0;12.0;1º a 4 de dezembro;76;Argentina;America do Sul
+219;2022;Catad'Or World Wine Awards;27;Santiago;Chile;1300.0;20.0;31 de outubro a 5 de novembro;30;Chile;America do Sul
+220;2022;Concurso Internacional Tannat al Mundo Terruño de oro;8;Punta del Este;Uruguai;167.0;0.0;18 a 21 de outubro;2;Uruguai;America do Sul
+221;2022;Sélections Mondiales des Vins;29;Montreal;Canada;1703.0;28.0;13 a 16 de outubro;11;Canada;America do Norte
+222;2022;IWSC - International Wine & Spirit Competition;2022;Londres;Inglaterra;10000.0;40.0;2 a 6 de maio;33;Inglaterra;Europa
+223;2022;Mondial des Vins Extrêmes;30;Vale de Aosta;Italia;831.0;24.0;29 e 30 de setembro;3;Italia;Europa
+224;2022;Muscats du Monde;22;Entre-Vignes;Franca;168.0;19.0;6 e 7 de setembro;2;Franca;Europa
+225;2022;Mondial des Pinots;25;Sierre;Suica;921.0;21.0;26 a 28 de agosto;2;Suica;Europa
+226;2022;Decanter World Wine Awards;19;Londres;Inglaterra;18094.0;56.0;Abril a junho;70;Inglaterra;Europa
+227;2022;Thessaloniki International Wine and Spirits Competition;22;Thessaloniki;Grecia;749.0;4.0;10 a 12 de maio;26;Grecia;Europa
+228;2022;Concurso Città del Vino 2022;20;Priocca;Italia;1300.0;8.0;20 a 22 de maio;7;Italia;Europa
+229;2022;Concours Mondial de Bruxelles;29;Cosenza;Italia;7300.0;40.0;19 a 21 de maio;2;Italia;Europa
+230;2022;Concours Mondial de Bruxelles;29;Anadia;Portugal;7300.0;40.0;1º a 3 de julho;10;Portugal;Europa
+231;2022;Bacchus;20;Madri;Espanha;1747.0;16.0;25 a 28 de abril;12;Espanha;Europa
+232;2022;VinAgora International Wine Competition;23;Budapeste;Hungria;941.0;16.0;7 a 10 de abril;5;Hungria;Europa
+233;2022;Challenge International du Vin;46;Bordeaux;Franca;3179.0;26.0;8 e 9 de abril;22;Franca;Europa
+234;2022;International Wine Challenge;38;Londres;Inglaterra;18000.0;50.0;11 a 23 de abril;70;Inglaterra;Europa
+235;2022;International Awards VIRTUS;4;Lisboa;Portugal;476.0;11.0;30 de abril a 2 de maio;12;Portugal;Europa
+236;2022;Chardonnay du Monde;29;Burgundy;Franca;546.0;32.0;9 a 11 de março;4;Franca;Europa
+237;2022;Citadelles du Vin;22;Bourg-sur-Gironde;Franca;1000.0;30.0;12 a 14 de março;17;Franca;Europa
+238;2022;Vinalies Internationales;28;Paris;Franca;2244.0;36.0;10 a 13 de fevereiro;10;Franca;Europa
+239;2022;Brazil Wine Challenge;11;Bento Gonçalves;Brasil;903.0;15.0;7 a 10 de junho;185;Brasil;America do Sul
+240;2023;Catad'Or World Wine Awards;28;Santiago;Chile;1200.0;19.0;13 e 15 de novembro;32;Chile;America do Sul
+241;2023;Sélections Mondiales des Vins;30;Quebec;Canada;1560.0;26.0;11 a 15 de outubro;10;Canada;America do Norte
+242;2023;Mondial des Vins Extrêmes;31;Vale de Aosta;Italia;863.0;26.0;28 a 29 de setembro;16;Italia;Europa
+243;2023;VINUS - Concurso Internacional de Vinos y Licores;20;Mendoza;Argentina;589.0;15.0;4 e 5 de agosto;84;Argentina;America do Sul
+244;2023;IWSC - International Wine & Spirit Competition;2023;Londres;Inglaterra;560.0;6.0;02 a 16 de maio;47;Inglaterra;Europa
+245;2023;Muscats du Monde;23;Entre-Vignes;Franca;167.0;17.0;20 e 21 de junho;4;Franca;Europa
+246;2023;Concours Mondial de Bruxelles;30;Porec;Croacia;10000.0;50.0;12 a 14 de maio;7;Croacia;Europa
+247;2023;Concours Mondial de Bruxelles;30;Agerola;Italia;960.0;25.0;1º a 3 de junho;5;Italia;Europa
+248;2023;International Wine Challenge;39;Londres;Inglaterra;6000.0;50.0;17 a 28 de abril;71;Inglaterra;Europa
+249;2023;Concurso Cittá del Vino;21;Sambuca di Sicilia;Italia;1287.0;12.0;12 a 14 de maio;6;Italia;Europa
+250;2023;VinAgora International Wine Competition;24;Budapeste;Hungria;917.0;15.0;15 a 18 de abril;11;Hungria;Europa
+251;2023;Decanter World Wine Awards;20;Londres;Inglaterra;18250.0;57.0;24 a 29 de abril;105;Inglaterra;Europa
+252;2023;Challenge International du Vin;47;Bordeaux;Franca;2666.0;24.0;21 e 22 de abril;31;Franca;Europa
+253;2023;Bacchus;21;Madri;Espanha;1728.0;16.0;17 a 21 de abril;13;Espanha;Europa
+254;2023;Premios Zarcillo;19;Burgos;Espanha;1451.0;12.0;23 e 26 de março;6;Espanha;Europa
+255;2023;Citadelles du Vin;23;Bourg-sur-Gironde;Franca;625.0;21.0;11 a 13 de março;14;Franca;Europa
+256;2023;International Awards VIRTUS;5;Lisboa;Portugal;460.0;8.0;4 a 6 de março;15;Portugal;Europa
+257;2023;Chardonnay du Monde;30;Monde;Franca;537.0;32.0;8 a 10 de março;8;Franca;Europa
+258;2023;Vinalies Internationales;29;Bordeaux;Franca;2234.0;38.0;2 a 5 de março;26;Franca;Europa
+259;2023;Thessaloniki International Wine and Spirits Competition;23;Thessaloniki;Grecia;1012.0;7.0;14 a 16 de fevereiro;34;Grecia;Europa
+260;2023;Effervescents du Monde;21;Saint Lager;Franca;500.0;20.0;28 de novembro a 1º de dezembro;14;Franca;Europa
+261;2023;Concurso do Espumante Brasileiro;13;Garibaldi;Brasil;505.0;1.0;27 e 28 de setembro;172;Brasil;America do Sul
+262;2023;Mondial des Pinots;26;Sierre;Suica;870.0;13.0;3 a 5 de novembro;2;Suica;Europa
+263;2024;Bacchus;22;Madri;Espanha;1984.0;18.0;15 a 17 de abril;12;Espanha;Europa
+264;2024;Chardonnay du Monde;31;Borgonha;Franca;579.0;33.0;13 a 15 de março;6;Franca;Europa
+265;2024;Vinalies Internationales;30;Cannes;Franca;2927.0;38.0;01 a 05 de março;16;Franca;Europa

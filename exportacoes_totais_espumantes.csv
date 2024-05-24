@@ -1,0 +1,138 @@
+pais_origem;pais_destino;continente_pais_destino;quantidade_litro;valor_usd
+Brasil;Paraguai;America do Sul;30803247;42862206
+Brasil;Russia;Europa/Asia;32822141;23151716
+Brasil;Estados Unidos;America do Norte;3349299;9309051
+Brasil;China;Asia;2574686;4903695
+Brasil;Reino Unido;Europa;1150780;4640935
+Brasil;Espanha;Europa;1990238;3805889
+Brasil;Haiti;America do Norte;2351228;3198849
+Brasil;Paises Baixos;Europa;897986;3012934
+Brasil;Japao;Asia;972341;2257163
+Brasil;Alemanha;Europa;648115;2148277
+Brasil;Uruguai;America do Sul;1118688;1674149
+Brasil;Belgica;Europa;399239;1382940
+Brasil;Canada;America do Norte;186081;1059120
+Brasil;Suica;Europa;101010;718710
+Brasil;Franca;Europa;308740;707581
+Brasil;Portugal;Europa;384238;578788
+Brasil;Polonia;Europa;134483;553317
+Brasil;Finlandia;Europa;86768;537443
+Brasil;Hong Kong;Asia;162957;511459
+Brasil;Angola;Africa;143147;505106
+Brasil;Australia;Oceania;58413;383533
+Brasil;Dinamarca;Europa;79320;374931
+Brasil;Curacao;America do Norte;216254;361490
+Brasil;Luxemburgo;Europa;53516;334641
+Brasil;Bolivia;America do Sul;222368;323078
+Brasil;Venezuela;America do Sul;196545;309340
+Brasil;Cuba;America do Norte;271044;304612
+Brasil;Republica Tcheca;Europa;49799;295034
+Brasil;Taiwan (Formosa);Asia;70284;278369
+Brasil;Noruega;Europa;35216;266695
+Brasil;Nigeria;Africa;164881;264004
+Brasil;Suecia;Europa;71551;263833
+Brasil;Argentina;America do Sul;55557;257817
+Brasil;Panama;America Central;75780;228807
+Brasil;Italia;Europa;28519;168963
+Brasil;Gana;Africa;91247;143512
+Brasil;Liberia;Africa;66737;141130
+Brasil;Emirados Arabes Unidos;Asia;16292;139307
+Brasil;Peru;America do Sul;71945;138071
+Brasil;Antilhas Holandesas;America do Norte;79064;120007
+Brasil;Marshall, Ilhas;Oceania;37770;119291
+Brasil;Guiana;America do Sul;40284;108605
+Brasil;Irlanda;Europa;17120;105094
+Brasil;Turquia;Europa/Asia;29340;97161
+Brasil;Colombia;America do Sul;44336;89276
+Brasil;Cingapura;Asia;26334;85911
+Brasil;Bahamas;America do Norte;15449;84030
+Brasil;Nova Zelandia;Oceania;14368;82386
+Brasil;Catar;Asia;13344;81626
+Brasil;Estonia;Europa;25957;81100
+Brasil;Guine Equatorial;Africa;20136;80486
+Brasil;Serra Leoa;Africa;47084;80452
+Brasil;Malta;Europa;20783;74948
+Brasil;Chile;America do Sul;23214;70635
+Brasil;Togo;Africa;33757;52855
+Brasil;Cabo Verde;Africa;12625;50363
+Brasil;Suriname;America do Sul;29306;50000
+Brasil;Singapura;Asia;12767;49561
+Brasil;Guatemala;America Central;22300;46947
+Brasil;Mexico;America do Norte;6329;43856
+Brasil;Quenia;Africa;8311;33767
+Brasil;Filipinas;Asia;14316;31731
+Brasil;Grecia;Europa;10774;29470
+Brasil;Congo;Africa;17460;27170
+Brasil;Chipre;Asia;7329;21091
+Brasil;Benin;Africa;5049;20342
+Brasil;Vietna;Asia;9871;13141
+Brasil;Nova Caledonia;Oceania;7227;11924
+Brasil;Antigua e Barbuda;America do Norte;2487;9586
+Brasil;Equador;America do Sul;6707;8429
+Brasil;Tailandia;Asia;2625;8259
+Brasil;Granada;America do Norte;5610;7914
+Brasil;Camaroes;Africa;1749;7654
+Brasil;Barein;Asia;2054;7539
+Brasil;Malavi;Africa;3660;6252
+Brasil;Ilha de Man;Europa;1729;5915
+Brasil;Austria;Europa;681;5432
+Brasil;Hungria;Europa;627;4686
+Brasil;Cayman, Ilhas;America do Norte;863;4594
+Brasil;Trinidade Tobago;America do Norte;891;4320
+Brasil;Letonia;Europa;395;3731
+Brasil;Gibraltar;Europa;792;2953
+Brasil;Dominica;America do Norte;1945;2857
+Brasil;Barbados;America do Norte;673;2855
+Brasil;Aruba;America do Norte;1350;2435
+Brasil;Sao Tome e Principe;Africa;2184;2357
+Brasil;Mocambique;Africa;383;1927
+Brasil;Bulgaria;Europa;122;1610
+Brasil;India;Asia;378;1560
+Brasil;Coreia do Sul;Asia;470;1284
+Brasil;Brasil;America do Sul;2535;998
+Brasil;Africa do Sul;Africa;147;814
+Brasil;Oma;Asia;194;670
+Brasil;Croacia;Europa;55;607
+Brasil;Ira;Asia;184;412
+Brasil;Sao Vicente e Granadinas;America do Norte;67;238
+Brasil;Bermudas;America do Norte;16;153
+Brasil;Malasia;Asia;63;143
+Brasil;Palau;Oceania;45;143
+Brasil;Arabia Saudita;Asia;124;142
+Brasil;Bangladesh;Asia;12;133
+Brasil;Montenegro;Europa;32;131
+Brasil;El Salvador;America Central;55;100
+Brasil;Guine Bissau;Africa;48;90
+Brasil;Mauritania;Africa;9;85
+Brasil;Cocos (Keeling), Ilhas;Oceania;26;60
+Brasil;Jordania;Asia;12;52
+Brasil;Bosnia-Herzegovina;Europa;45;52
+Brasil;Guiana Francesa;America do Sul;112;50
+Brasil;Afeganistao;Asia;11;46
+Brasil;Indonesia;Asia;14;36
+Brasil;Sao Cristovao e Nevis;America do Norte;16;31
+Brasil;Martinica;America do Norte;9;31
+Brasil;Vanuatu;Oceania;18;31
+Brasil;Honduras;America Central;14;30
+Brasil;Belice;America Central;9;29
+Brasil;Comores;Africa;9;25
+Brasil;Nicaragua;America Central;24;24
+Brasil;Suazilandia;Africa;10;24
+Brasil;Pitcairn;Oceania;11;22
+Brasil;Toquelau;Oceania;3;10
+Brasil;Macau;Asia;7;6
+Brasil;Tuvalu;Oceania;2;4
+Brasil;Tunisia;Africa;0;0
+Brasil;Anguilla;America do Norte;0;0
+Brasil;Tanzania;Africa;0;0
+Brasil;Jamaica;America do Norte;0;0
+Brasil;Senegal;Africa;0;0
+Brasil;Republica Dominicana;America do Norte;0;0
+Brasil;Costa Rica;America Central;0;0
+Brasil;Porto Rico;America do Norte;0;0
+Brasil;Iraque;Asia;0;0
+Brasil;Eslovaca, Republica;Europa;0;0
+Brasil;Namibia;Africa;0;0
+Brasil;Ilhas Virgens;America do Norte;0;0
+Brasil;Libano;Asia;0;0
+Brasil;Costa do Marfim;Africa;0;0
